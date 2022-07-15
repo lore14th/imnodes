@@ -502,3 +502,4 @@ MigrationBackup/
 # End of https://www.gitignore.io/api/visualstudio
 bin-int
 *.vcxproj
+*.filters
