@@ -14,7 +14,7 @@ project "imnodes"
 		"imnodes_internal.h"
 	}
 
-	sysincludedirs
+	externalincludedirs
 	{
 		--"../imgui/" -- this uses the imgui includes from Tinfoil project
 		"%{IncludeDir.imgui}"
